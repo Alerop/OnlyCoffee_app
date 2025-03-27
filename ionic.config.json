@@ -1,0 +1,7 @@
+{
+  "name": "OnlyCoffe_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
