@@ -22,6 +22,7 @@
     "useDefineForClassFields": false,
     "paths": {
       "only-library": ["node_modules/only-library"],
+      "@Only": ["node_modules/only-components"],
       "@Only-Prototype-T": ["node_modules/only-prototype-t"]
     }
   },
